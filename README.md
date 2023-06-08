@@ -1,6 +1,6 @@
 # Hi there!! My name is Matheus Brizolla de Carvalho Tosetto👋
 
-Currently working as a Data Analyst, but always practicing and reading Data Engineering stuff. Focusing on migrating to the area soon.
+Currently working as a Data Analyst, but always practicing and reading Data Engineering stuff.
 
 Mainly skills:
 Python, SQL, Hadoop, Hive, Airflow, AWS.
