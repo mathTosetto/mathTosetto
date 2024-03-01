@@ -24,6 +24,7 @@ Contact: <br>
 - Data Governance Internship (Dec/2016 - Jun/2018)
 
 ## Business knowledge
+- Insurance services;
 - Vehicle services (Insurance, Loan, etc);
 - Card logistics;
 - Advertisement.
