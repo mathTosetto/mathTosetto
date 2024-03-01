@@ -14,7 +14,11 @@ Contact: <br>
 ### My currently objective is to consolidate my knowledge in the field of engineering and eventually move into a position in that area.
 
 ## Professional experience
-- Data Analyst (Sep/2022 - Present)
+#### AXA Ireland
+- Data Engineer (Jul/2023 - Present)
+#### Aspiegel (Huawei)
+- Data Analyst (Sep/2022 - Jul/2023)
+#### Itaú Unibanco S.A
 - Data Engineer (Feb/2021 - Apr/2022)
 - Data Analyst (Aug/2018 - Jan/2021)
 - Data Governance Internship (Dec/2016 - Jun/2018)
