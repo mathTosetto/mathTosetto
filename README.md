@@ -1,9 +1,9 @@
 # Hi there!! My name is Matheus Brizolla de Carvalho Tosetto👋
 
-Currently working as a Data Analyst, but always practicing and reading Data Engineering stuff.
+Currently, working as a Data Engineer at AXA Ireland.
 
 Mainly skills:
-Python, SQL, Hadoop, Hive, Airflow, AWS.
+Python, SQL, Hadoop, Hive, Airflow, Azure.
 
 Contact: <br>
 <a href="https://linkedin.com/in/matheus-brizolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
