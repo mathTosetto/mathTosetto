@@ -9,10 +9,6 @@ Contact: <br>
 <a href="https://linkedin.com/in/matheus-brizolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "matbrizolla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## I'm a Data Analyst with a focus on engineering.
-
-### My currently objective is to consolidate my knowledge in the field of engineering and eventually move into a position in that area.
-
 ## Professional experience
 #### AXA Ireland
 - Data Engineer (Jul/2023 - Present)
