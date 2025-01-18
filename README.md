@@ -8,9 +8,9 @@ Currently, working at AXA Ireland.
 <a href="https://linkedin.com/in/matheus-brizolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "matbrizolla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Business knowledge
-- Insurance services;
-- Financial banking;
-- Digital services.
+- Insurance services
+- Financial banking
+- Digital services
 
 ## Professional experience
 #### AXA Ireland
