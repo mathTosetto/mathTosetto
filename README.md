@@ -1,4 +1,4 @@
-# Hi there!! My name is Matheus Tosetto👋
+# Hi there!! 👋
 
 Professional passionate about data, with a dedicated space for personal projects, studies, and performance tests.
 
